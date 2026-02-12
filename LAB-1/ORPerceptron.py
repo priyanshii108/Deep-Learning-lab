@@ -1,5 +1,3 @@
-import numpy as np
-
 def Orperceptron(x1, x2):
     w1, w2 = 1,1
     b = -0.5
